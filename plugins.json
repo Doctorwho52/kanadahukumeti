@@ -1,1 +1,21 @@
-
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Doctorwho52/kanadahukumeti",
+        "fileSize": 18685,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "doctorwho52"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "CanliTV",
+        "description": "Canl\u0131 TV",
+        "url": "https://raw.githubusercontent.com/Doctorwho52/kanadahukumeti/builds/CanliTV.cs3",
+        "name": "CanliTV"
+    }
+]
