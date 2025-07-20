@@ -1,8 +1,0 @@
-{
-  "name": "@kanadahukumetidiyorki",
-  "description": "",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/Doctorwho52/kanadahukumeti/builds/plugins.json"
-  ]
-}
