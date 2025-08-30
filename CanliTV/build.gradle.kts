@@ -1,9 +1,9 @@
-version = 1
+version = 3
 
 cloudstream {
-    authors     = listOf("doctorwho52")
+    authors     = listOf("Doctorwho52")
     language    = "tr"
-    description = "Canlı TV"
+    description = "aynen"
 
     /**
      * Status int as the following:
@@ -14,5 +14,5 @@ cloudstream {
     **/
     status  = 1 // will be 3 if unspecified
     tvTypes = listOf("Live")
-    iconUrl = "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%"
+    iconUrl = "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%"
 }
