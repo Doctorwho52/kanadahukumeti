@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Doctorwho52/kanadahukumeti",
+        "fileSize": 18001,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Doctorwho52"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Canli",
+        "description": "Aynenn",
+        "url": "https://raw.githubusercontent.com/Doctorwho52/kanadahukumeti/builds/Canli.cs3",
+        "name": "Canli"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Doctorwho52/kanadahukumeti",
