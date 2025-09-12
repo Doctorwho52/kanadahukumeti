@@ -1,4 +1,4 @@
-version = 2
+version = 3
 
 cloudstream {
     authors     = listOf("Doctorwho52")
@@ -17,3 +17,4 @@ cloudstream {
     iconUrl = "https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg"
 
 }
+
