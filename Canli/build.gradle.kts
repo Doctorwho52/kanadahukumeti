@@ -1,4 +1,4 @@
-version = 1
+version = 2
 
 cloudstream {
     authors     = listOf("Doctorwho52")
@@ -15,4 +15,5 @@ cloudstream {
     status  = 1 // will be 3 if unspecified
     tvTypes = listOf("Live")
     iconUrl = "https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg"
+
 }
