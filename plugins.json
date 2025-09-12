@@ -3,7 +3,7 @@
         "iconUrl": "https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-tv-shape-red-live-icon-png-image_2473459.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Doctorwho52/kanadahukumeti",
-        "fileSize": 18002,
+        "fileSize": 20410,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -12,7 +12,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "Canli",
         "description": "Aynenn",
         "url": "https://raw.githubusercontent.com/Doctorwho52/kanadahukumeti/builds/Canli.cs3",
