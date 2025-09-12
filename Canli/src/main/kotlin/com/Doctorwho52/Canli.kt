@@ -127,7 +127,7 @@ class Canli : MainAPI() {
 
     override suspend fun load(url: String): LoadResponse {
         Log.d("CTV", "Kanallar -> ${kanallar.size}")
-        Log.d("CTV", "URL -> $url")
+        Log.d("CTV", " -> $url")
         Log.d("CTV", "*********************************")
         var loadData: LoadData
         kanallar.forEach { it ->
@@ -233,4 +233,5 @@ class Canli : MainAPI() {
     }
 
 }
+
 
